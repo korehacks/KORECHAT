@@ -24,7 +24,7 @@
 ```bash
 sudo apt update
 sudo apt install python3 openssl git
-git clone [https://github.com/korehacks/Kore-chat/](https://github.com/korehacks/Kore-chat/)
-cd Kore-chat
-chmod +x kore-chat.py
-python3 kore-chat.py --help
+git clone [https://github.com/korehacks/Kore-chat/](https://github.com/korehacks/KORECHAT/)
+cd KORECHAT
+chmod +x korechat.py
+python3 korechat.py --help
