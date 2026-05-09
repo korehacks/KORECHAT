@@ -1,0 +1,10 @@
+# Encryption Keys
+*.key
+*.crt
+
+# Downloads
+received_*
+
+# Python Cache
+__pycache__/
+*.pyc
